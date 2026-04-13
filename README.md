@@ -1,8 +1,22 @@
-## Hi there 👋
+# 👋 안녕하세요!
 
-<!--
-**uenkhamgalan076-gif/uenkhamgalan076-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 자기소개
 
-- 🔭 I’m currently working on CS2
-- 🌱 I’m currently learning IT
+- **이름**: 운드랄사이한 엔흐암가랑  
+- **학번**: 22411924  
+- **소속**: 컴퓨터공학과  
 
+## 💡 소개
+
+안녕하세요! 컴퓨터공학을 전공하며 다양한 기술과 개발 경험을 쌓고 있는 학생입니다.  
+프로그래밍과 소프트웨어 개발에 큰 관심을 가지고 있으며, 꾸준히 성장하는 개발자가 되는 것을 목표로 하고 있습니다.
+
+## 🚀 목표
+
+- 다양한 프로그래밍 언어 학습  
+- 실전 프로젝트 경험 쌓기  
+- 협업 능력 향상  
+
+---
+
+앞으로 잘 부탁드립니다! 😊
